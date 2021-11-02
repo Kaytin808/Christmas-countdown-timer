@@ -1,0 +1,26 @@
+@font-face {
+    font-family: christ;
+    src: url('christmaseve.ttf')
+  }
+.christmas {
+    font-family: christ;
+    display: flex;
+    justify-content: center;
+    margin-top: 32vh;
+    text-align: center;
+    min-height: 58vh;
+    font-size: 90px;
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(0, 255, 21));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+  }
+  html {
+      background-image: url('christmasbackground.jpg');
+  }
