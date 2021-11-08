@@ -2,6 +2,12 @@
     font-family: christ;
     src: url('christmaseve.ttf')
   }
+  #demo {
+    font-family: christ;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+  }
 .christmas {
     font-family: christ;
     display: flex;
