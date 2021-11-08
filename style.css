@@ -19,6 +19,7 @@
   }
 .christmas {
     font-family: christ;
+    font-weight: 500;
     display: flex;
     justify-content: center;
     margin-top: 45vh;
